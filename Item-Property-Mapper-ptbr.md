@@ -1,3 +1,6 @@
+
+[![home](https://img.shields.io/badge/Home-242526?logo=googlehome)](https://github.com/Arcani97/Arcani97-Foundry-Macros)
+
 # Mapeador de Propriedades de Itens
 Um código simples para criar uma macro que verifica e gera uma lista de todas as propriedades de itens para o sistema usado no seu mundo.
 
