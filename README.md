@@ -23,8 +23,6 @@ Uma lista de macros para ajudar mestres a usar alguns dos meus modulos ou para q
 
 <hr>
 
-<br/>
-
-[![home](https://img.shields.io/badge/Home-7c7e7e?logo=googlehome)](https://github.com/Arcani97/Arcani97-Foundry-Macros)
-[![en](https://img.shields.io/badge/Item_Property_Mapper-EN-00247d?style=flat&labelColor=242526)](https://github.com/Arcani97/Arcani97-Foundry-Macros/blob/main/Item-Property-Mapper-en.md)
-[![ptbr](https://img.shields.io/badge/Item_Property_Mapper-PT--BR-004f1e?style=flat&labelColor=242526)](https://github.com/Arcani97/Arcani97-Foundry-Macros/blob/main/Item-Property-Mapper-ptbr.md)
+#### Item Property Mapper | Mapeador de Propriedades de Itens
+[![en](https://img.shields.io/badge/EN-00247d?style=flat)](https://github.com/Arcani97/Arcani97-Foundry-Macros/blob/main/Item-Property-Mapper-en.md)
+[![ptbr](https://img.shields.io/badge/PT--BR-004f1e?style=flat)](https://github.com/Arcani97/Arcani97-Foundry-Macros/blob/main/Item-Property-Mapper-ptbr.md)
